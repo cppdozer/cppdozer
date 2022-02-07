@@ -4,3 +4,4 @@
 
 
 [![Instagram](https://icons-for-free.com/download-icon-instagram+logo+logo+website+icon-1320190502826859478_512.png)](https://www.instagram.com/kaanmertagyol)
+[![Twitter](https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png)](https://www.twitter.com/kaanmertagyol)
