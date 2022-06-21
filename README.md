@@ -1,5 +1,6 @@
 Computer Engineering Student at **METU**.
-[!TryHackme](https://tryhackme-badges.s3.amazonaws.com/cppdozer.png)
+
+![TryHackme](https://tryhackme-badges.s3.amazonaws.com/cppdozer.png)
 
 ### Social Media Account
 
